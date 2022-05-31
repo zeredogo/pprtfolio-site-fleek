@@ -6,14 +6,7 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores  magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                I'm  Paul Dogo  C.E.O DogoEmpire , Blockchain Developer B.s.g Business Admin.  
             </p>
         </section>
     );
